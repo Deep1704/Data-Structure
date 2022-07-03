@@ -1,3 +1,6 @@
+//Read two matrices, first 3x2 and second 2x3, perform multiplication operation and store result in third matrix and print it.
+
+
 import java.util.Scanner;
 public class Multiplication_Two_Matrices{
 	public static void main(String [] args){
